@@ -1,1 +1,2 @@
-# Prevendo_os_pre-os_das_a-es_com_Python
+# Prevendo os preços de açõees com Python
+Com regressão linear e reneural
